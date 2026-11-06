@@ -49,17 +49,10 @@ Instead of bootstrapping your framework on every single request, KURGAL allows y
 
 ## 🛡️ Status & Licensing
 
-- **Status**: Active Development (Private Beta).
-- **Source Code**: Closed-source (Proprietary).
 - **Public Files License**: The integration scripts in this repository are licensed under the **MIT License**.
 - **Trademark**: `KURGAL™` and the sigil `𒆳` are trademarks of **KiGal**. All rights reserved.
 
 ---
-
-## 🤝 Stay Updated
-
-We are not accepting public contributions to the core engine at this time. 
-To follow the development of KURGAL, or to inquire about early access for enterprise deployments, please visit **[kigal.co](https://kigal.co)** (or contact us directly).
 
 ---
 
