@@ -1,6 +1,8 @@
 
 # KURGAL 𒆳
-
+<div align="center">
+  <img src="KURGAL.png" alt="KURGAL Logo" width="300">
+</div>
 **The Great Mountain — A Next-Generation PHP Runtime.**
 
 > *"From the primordial ocean of requests, order emerges."*
